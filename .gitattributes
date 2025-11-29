@@ -1,0 +1,7 @@
+*.data.unityweb binary
+*.wasm.unityweb binary
+*.framework.js.unityweb binary
+*.loader.js text
+*.wasm binary
+
+*.unityweb -text
